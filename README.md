@@ -97,4 +97,4 @@ This project demonstrates how quantum machine learning can be integrated into re
 While classical models still perform strongly, the hybrid quantum model shows promising results, particularly in high-recall scenarios critical for healthcare and drug discovery.
 
 --> Author
-Devarshi Trivedi || UT Dallas
+----- Devarshi Trivedi || UT Dallas
