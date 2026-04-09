@@ -1,0 +1,31 @@
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95        42
+           1       0.97      0.97      0.97        72
+
+    accuracy                           0.96       114
+   macro avg       0.96      0.96      0.96       114
+weighted avg       0.96      0.96      0.96       114
+
+
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+           0       0.88      0.90      0.89        42
+           1       0.94      0.93      0.94        72
+
+    accuracy                           0.92       114
+   macro avg       0.91      0.92      0.92       114
+weighted avg       0.92      0.92      0.92       114
+
+
+=== Hybrid Quantum Model ===
+              precision    recall  f1-score   support
+
+           0       0.97      0.88      0.93        42
+           1       0.93      0.99      0.96        72
+
+    accuracy                           0.95       114
+   macro avg       0.95      0.93      0.94       114
+weighted avg       0.95      0.95      0.95       114

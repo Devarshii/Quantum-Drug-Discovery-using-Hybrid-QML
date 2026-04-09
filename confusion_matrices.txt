@@ -1,0 +1,11 @@
+Logistic Regression Confusion Matrix:
+[[40  2]
+ [ 2 70]]
+
+Random Forest Confusion Matrix:
+[[38  4]
+ [ 5 67]]
+
+Hybrid Quantum Model Confusion Matrix:
+[[37  5]
+ [ 1 71]]
